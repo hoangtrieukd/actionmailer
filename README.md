@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# actionmailer
+lear ruby on rails
+>>>>>>> 3cfcec49ea62b3b24f89b9b72c791458d95c1418
